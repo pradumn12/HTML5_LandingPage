@@ -1,0 +1,91 @@
+@media only screen and (max-width:450px){
+    *{
+        max-width:100%;
+
+    }
+    #heading-1{
+        display:none;
+    }
+    #para-1{
+        display:none;
+    }
+    #email-id{
+        display:inline-block;
+        width:285px;
+        height:20px;
+        /* border:2px solid yellow; */
+        margin-left:50px;
+    }
+    #button{
+        display:inline-block;
+        width:304px;
+        height:35px;
+        /* border:2px solid yellow; */
+        margin-left:50px;
+    }
+}
+
+@media only screen and (max-width:390px){
+    #email-id{
+        display:inline-block;
+        width:250px;
+        height:20px;
+        margin-left:40px;
+    }
+    #button{
+        display:inline-block;
+        width:273px;
+        height:35px;
+        margin-left:40px;
+    }
+
+}
+
+@media only screen and (max-width:350px){
+    #email-id{
+        display:inline-block;
+        width:230px;
+        height:20px;
+        margin-left:28px;
+    }
+    #button{
+        display:inline-block;
+        width:249px;
+        height:35px;
+        margin-left:28px;
+    }
+
+}
+
+@media only screen and (max-width:300px){
+    #email-id{
+        display:inline-block;
+        width:210px;
+        height:20px;
+        margin-left:15px;
+    }
+    #button{
+        display:inline-block;
+        width:230px;
+        height:35px;
+        margin-left:15px;
+    }
+
+}
+
+
+@media only screen and (max-width:260px){
+    #email-id{
+        display:inline-block;
+        width:130px;
+        height:20px;
+        margin-left:6px;
+    }
+    #button{
+        display:inline-block;
+        width:155px;
+        height:35px;
+        margin-left:5px;
+    }
+
+}
